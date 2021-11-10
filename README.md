@@ -27,3 +27,16 @@ Write a JavaScript to validate all fields with the following conditions  
 4. Age should not be negative number  
 5. First character should be capital letter in username  
 6. Prevent the user to move to the next text fields unless valid input is entered and store the username and phone number in cookies.
+
+                                                    CAT 3
+CHRIST (Deemed to be university), Bangalore wants to store their student
+information in MYSQL Database. The name of the database is ‘christ’ and table
+name should be ‘stuinfo’.The student information table consists of stu-id, stu-
+name, age, gender, course and address.
+Write a PHP code to perform the following operations with proper validations:
+1. Insert
+2. Update
+3. Delete
+4. Search the particular student based on their id
+5. Display the student id and name whose course is MCA
+Add the github link also for reference.                                                    
